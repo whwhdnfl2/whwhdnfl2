@@ -1,4 +1,4 @@
-tistory 블로그: https://reforming.tistory.com/3
+tistory 블로그: https://reforming.tistory.com/
 
 <!--
 **whwhdnfl2/whwhdnfl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
