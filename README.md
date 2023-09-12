@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minjun`s%20Github&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Minjun`s%20Github&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -51,14 +51,20 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whwhdnfl2&layout=compact">
+	<br>
+	<br>
+	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=whwhdnfl2&show_icons=true">
-
+	<br>
+	<br>
+ 	<br>
+	
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=whwhdnfl2)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwhdnfl2)](https://solved.ac/whwhdnfl2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whwhdnfl2)](https://solved.ac/whwhdnfl2)
 </div>
 <br>
 
