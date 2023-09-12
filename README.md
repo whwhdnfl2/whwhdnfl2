@@ -3,7 +3,10 @@
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	
+---
+	
+<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -48,6 +51,9 @@
 	</a>
 	<br>
 </div>
+
+---
+
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whwhdnfl2&layout=compact">
@@ -60,8 +66,9 @@
  	<br>
 	
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=whwhdnfl2)
-
 <br>
+
+---
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whwhdnfl2)](https://solved.ac/whwhdnfl2)
